@@ -6,7 +6,7 @@ int main()
 	a = x / 100;
 	b = x / 10 - a * 10;
 	c = x - a * 100 - b * 10;
-	y = c * 100 + b * 10 + a;；
+	y = c * 100 + b * 10 + a;
 	printf("%d\n", y);
 	return 0;
 }
